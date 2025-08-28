@@ -9,7 +9,11 @@ nee
 
 **Work flow for this project**:
 Step 1: Literatural review
+
 Step 2: Innovate novel de-mosaicking algorithms
+
 Step 3: Implement the ideas in MATLAB simulation to see the CPSNR
+
 Step 4: If the CPSNR in step 3 is great, then I will write Verilog to simulate the algorithm and check how much the hardware costs. Otherwise, I need to go back to step 2. Note that an algorithm which achieves high CPSNR does not mean it is suitable for implementing in hardware, as it may cost too much hardware. Hence, how to balance the hardware costs and CPSNR is the most challenging part of this research.
+
 Step 5: Finalize the research results
